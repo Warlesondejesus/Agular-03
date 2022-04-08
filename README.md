@@ -1,4 +1,4 @@
-# Exercicio03
+# Exercício Angular 03
 
 Utilizando os conceitos de data binding, crie um site contador. 
 
